@@ -1,2 +1,2 @@
-# Landing-Page-Dynamic-Animations-
+# Landing-Page-Dynamic-Animations
 - uses ```AOS``` library
